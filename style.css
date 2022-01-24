@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+  
+}
+
+img {
+    width: 300px;
+   align: center;
+}
+#logo-h1{
+  font-size:1.2em;
+  margin:10px;
+  align:center
+}
+table {
+    margin-top: 6%;
+    margin-bottom: 7%;
+    align:center
+}
+
+table,
+th,
+tr,
+td {
+    margin: auto;
+    border: 2px solid grey;
+    border-spacing: 5px;
+    padding: 15px;
+    border-collapse: collapse;
+    font-size: 15px;
+    background-color:skyblue;
+    align: center;
+}
+
+p {
+    padding: 90px;
+}
+
+.light {
+    color: grey;
+}
+
+.yellow {
+    color: yellow;
+
+}
+
+td:hover {
+  cursor:pointer;
+    background-color: yellow;
+}
+
+caption {
+    padding: 10px;
+    font-size: large;
+}
+
+.logo{
+  display: flex;
+}
+th{
+  background-color: yellow;
+}
